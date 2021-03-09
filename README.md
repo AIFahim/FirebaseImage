@@ -16,10 +16,8 @@ Email: asif.iqbal.fahim.bd@gmail.com
 
 <hr>
 
-## Maintainers and Developers (Team Alachi)
+## Maintainer and Developer
 This repository is owned and maintained by 
  * [Md. Asif Iqbal Fahim](https://github.com/AIFahim)
- * [Farhad Hossen](https://github.com/farhadhossen)
- * [Moin Akash](https://github.com/moinakash)
-  
+
 
